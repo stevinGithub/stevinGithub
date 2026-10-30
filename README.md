@@ -45,21 +45,6 @@
 
 ---
 
-## 📊 GitHub 数据
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevinGithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=stevinGithub&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevinGithub&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stevinGithub&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
 ## ⭐ 最近在看的星标
 
 <div align="center">
